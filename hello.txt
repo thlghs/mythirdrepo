@@ -1,0 +1,4 @@
+hello world
+hows life
+nice day!!
+git seems to work
